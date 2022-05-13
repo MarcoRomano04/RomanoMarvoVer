@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"RomanoMarcoClass","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"<Unnamed>","c":"RomanoMarcoClass","l":"RomanoMarcoClass()"},{"p":"<Unnamed>","c":"RomanoMarcoClass","l":"RomanoMet(int, int)"}]
